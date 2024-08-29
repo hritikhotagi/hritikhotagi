@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Graphic Designing**
 
-- 📫 How to reach me **hritikhotagi@gmail.com**
+- 📫 How to reach me **hritikhotagiofficial@gmail.com**
 
 - 📄 Know about my experiences resume - [https://drive.google.com/file/d/1zbOKxmDlZhhAc0uwouZDNBlHjKsxxBu-/view?usp=sharing](https://drive.google.com/file/d/1zbOKxmDlZhhAc0uwouZDNBlHjKsxxBu-/view?usp=sharing)
 
