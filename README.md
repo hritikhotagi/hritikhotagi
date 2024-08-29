@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/004/113/688/original/programmer-concept-for-web-banner-developer-works-at-laptop-writes-code-on-computer-man-creates-programs-modern-people-scene-illustration-in-flat-cartoon-design-with-person-characters-vector.jpg)](https://hritikhotagi.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/004/113/688/original/programmer-concept-for-web-banner-developer-works-at-laptop-writes-code-on-computer-man-creates-programs-modern-people-scene-illustration-in-flat-cartoon-design-with-person-characters-vector.jpg)](https://hritikhotagi.netlify.app)
 <h1 align="center">Hi 👋, I'm Hritik Hotagi</h1>
 <h3 align="center">A passionate developer, designer, creator from India</h3>
 
